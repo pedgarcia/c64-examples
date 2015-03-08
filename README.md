@@ -11,6 +11,8 @@ This is a collection of code examples for the Commodore 64. I'm using this repos
 * [Commodore 64 Memory Map](http://sta.c64.org/cbm64mem.html)
 * [C64-Wiki](http://www.c64-wiki.com/index.php)
 * [Machine Language For Beginners](http://www.6502dude.com/6502/mlb/mlb.htm)
+* [CSDb - The C-64 Scene Database](http://csdb.dk/)
+* [Lemon64](http://www.lemon64.com/)
 
 ### License
 
